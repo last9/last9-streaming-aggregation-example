@@ -1,8 +1,8 @@
-# levitate-streaming-aggregation-automation
+# last9-streaming-aggregation-automation
 
 This is an example repository which stores the streaming-aggregation config, as well as aggregation pipelines to be executed on the metrics. Feel free to fork.
 
-Read more about streaming aggregates in Levitate [here](https://docs.last9.io/docs/streaming-aggregations).
+Read more about streaming aggregates in Last9 [here](https://docs.last9.io/docs/streaming-aggregations).
 
 ## Config file
 
@@ -23,7 +23,7 @@ This is present in [config.json](.github/workflows/config.json)
 
 ## Aggregations file
 
-The aggregations are stored in a file called `cluser-name.yaml` in the root of the repository. There is one file per Levitate cluster. 
+The aggregations are stored in a file called `cluser-name.yaml` in the root of the repository. There is one file per Last9 cluster. 
 
 ### How to define the streaming aggregated metric?
 
